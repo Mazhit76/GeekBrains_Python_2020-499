@@ -11,11 +11,12 @@ def in_mass(mass=[]):
         if len(mass)==0:
             mass.insert(0, user_input)
         else:
+
             for i, el in enumerate ( mass ):
-                if el >= user_input:
+                if ((el > user_input) and (i+1<len(mass))):
                     continue
                 else:
-                    mass.insert ( i+1, user_input )
+                    mass.insert ( (i if (i+1<len(mass))else i+1), user_input )
                 break
 
 
@@ -24,7 +25,7 @@ def in_mass(mass=[]):
 
 def print_mas(massiv):
     for i in massiv:
-        print (i)
+        print (i, end=' ')
 mass = []
 in_mass (mass)
 print_mas(mass)
