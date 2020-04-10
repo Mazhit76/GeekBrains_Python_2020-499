@@ -5,10 +5,8 @@
 #фунция принимает три позиционных аргумента тип int, преобразует их в последовательность сортирует от максимума
 #  и возвращает сумму наибольших двух аргументов.
 def my_func (x1,x2,x3):
-    sp=[x1,x2,x3]
-    sp=sorted(sp,reverse=True)
-    sum_user=sp[0]+sp[1]
+    sp=list(x1,x2,x3)
+    print(min(sp-list))
+    sum_user=
     return sum_user
-print(my_func(5,9,3))
-
 
