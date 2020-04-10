@@ -15,7 +15,7 @@ def in_user(str_user, out_pr=False):
     summa=0
     stroka1=str_user
     in_str=input(' ')
-    stroke2=stroka1+' '+in_str# Не работает правильно пробел после остатка!!!!!!!!!!!!!!!!!!
+    stroke2=stroka1+' '+in_str
     str_split=stroke2.split(' ')
     for i,n in enumerate(str_split):
         i,lb_fl,err,out_pr=int_in(n)#x, label_float=False, err=False, out_program=False(Это проверка на выход из прогр)
@@ -69,11 +69,11 @@ def int_in(x, label_float=False, err=False, out_program=False):
             return 0,False,err, out_program# Если нажали друние символы
     return out, label_float, err, out_program
 
-#Функция в цикле опрашивает пользователя пока он не нажмет "Esc"-выход или Enter-ввод
+#Функция в цикле опрашивает пользователя пока он не нажмет "N"-выход или Enter-ввод вызов функции in_user
 def input_user(in_str=''):
     result=''
     out_pr=False
-    print('Введите строку чисел, разделенных пробелом: ')
+    print('Введите строку чисел, разделенных пробелом, N-Out: ')
     while out_pr==False:
         result,out_pr=in_user(str_user=result)
         print(result,end='')
