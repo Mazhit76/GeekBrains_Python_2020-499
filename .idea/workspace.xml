@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a32c451-1e14-40ef-97e3-1208b421bd38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Lession3-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lession3-3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GeekBrains_Python_2020-499" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\user5\Desktop\GeekBrains_Python_2020-499\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCnqRJDwhpaUwwOTE4k6SSWfvS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lession3-1.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Lession3-3">
+    <configuration name="Lession3-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekBrains_Python_2020-499" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lession3-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lession3-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekBrains_Python_2020-499" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lession3-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lession3-3" />
+        <item itemvalue="Python.Lession3-1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a32c451-1e14-40ef-97e3-1208b421bd38" name="Default Changelist" comment="" />
+      <created>1586248633950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586248633950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="184" key="#Inspections" timestamp="1586353408869">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="556" y="184" key="#Inspections/0.0.1920.1036@0.0.1920.1036" timestamp="1586353408869" />
+    <state x="724" y="169" key="#Lession3-3" timestamp="1586420451651">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="724" y="169" key="#Lession3-3/0.0.1920.1036@0.0.1920.1036" timestamp="1586420451651" />
+    <state x="419" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586354092507">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="419" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1586354092507" />
+    <state x="744" y="280" key="FileChooserDialogImpl" timestamp="1586354090827">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="744" y="280" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1586354090827" />
+    <state width="1899" height="342" key="GridCell.Tab.-1.bottom" timestamp="1586260093688">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.-1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1586260093688" />
+    <state width="1899" height="342" key="GridCell.Tab.-1.center" timestamp="1586260093687">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.-1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1586260093687" />
+    <state width="1899" height="342" key="GridCell.Tab.-1.left" timestamp="1586260093687">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.-1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1586260093687" />
+    <state width="1899" height="342" key="GridCell.Tab.-1.right" timestamp="1586260093688">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.-1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1586260093688" />
+    <state width="1899" height="342" key="GridCell.Tab.0.bottom" timestamp="1586420904042">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1586420904042" />
+    <state width="1899" height="342" key="GridCell.Tab.0.center" timestamp="1586420904042">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1586420904042" />
+    <state width="1899" height="342" key="GridCell.Tab.0.left" timestamp="1586420904042">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1586420904042" />
+    <state width="1899" height="342" key="GridCell.Tab.0.right" timestamp="1586420904042">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1586420904042" />
+    <state width="1899" height="342" key="GridCell.Tab.1.bottom" timestamp="1586260078641">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1586260078641" />
+    <state width="1899" height="342" key="GridCell.Tab.1.center" timestamp="1586260078641">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1586260078641" />
+    <state width="1899" height="342" key="GridCell.Tab.1.left" timestamp="1586260078641">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1586260078641" />
+    <state width="1899" height="342" key="GridCell.Tab.1.right" timestamp="1586260078641">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1899" height="342" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1586260078641" />
+    <state x="487" y="154" key="SettingsEditor" timestamp="1586253551648">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="487" y="154" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1586253551648" />
+    <state x="492" y="230" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1586260322394">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="492" y="230" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1920.1036@0.0.1920.1036" timestamp="1586260322394" />
+    <state x="683" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1586420032205">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="683" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1586420032205" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lession3-1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lession3-3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="__builtins__" />
+        <watch expression="__builtins__" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
