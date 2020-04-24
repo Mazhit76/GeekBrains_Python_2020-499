@@ -32,13 +32,14 @@ class Cell:
         return f'{self.x}'
 
     def __add__(self, other):
-        return Cell(self.x+other.x)
+        m=int(round((self.x+other.x),1))
+        return Cell(m)
 
     def __sub__(self, other):
         m=self.x-other.x
-        if m<1:
-            m='Ошибка меньше 1 не может быть'
-        else:m=round(m,0)
+        if m<0:
+            m='Ошибка меньше 0 не может быть'
+        else:m=int(round(m,1))
         return Cell(m)
 
 
@@ -46,10 +47,29 @@ class Cell:
         m=self.x/other.x
         if m<1:
             m=f'Ошибка меньше 1 не может быть'
-        else:m=round(m,0)
+        else:m=int(round(m,1))
         return Cell(m)
 
-pom=Cell(1.2)
+    def __mul__(self, other):
+
+        m=int(self.x*other.x)
+        return Cell(m)
+
+    def make_order(self,count_in_line):
+        out_len=''
+        for i in range (0,self.x):
+            if ((i !=0) and (i%count_in_line==0)): out_len+='\n'
+            out_len+='*'
+        return Cell(out_len)
+ #   def __next__(self,i):  #Работаю на пепреопледелением метода next. По окончании отправлю. Пока костыль сверху, приляпал
+                            # Не айс, но работает....
+
+
+
+pom=Cell(10)
 ogur=Cell(2)
+print(pom+ogur)
 print(pom-ogur)
 print(ogur/pom)
+print(ogur*pom)
+print(pom.make_order(6))
