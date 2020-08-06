@@ -15,3 +15,19 @@
 Введите число, которое требуется перевернуть: 123
 Перевернутое число: 321
 """
+
+
+def recur_method(numb, flip=0):
+    if numb == 0:
+        return flip
+    else:
+        flip = (flip * 10) + (numb % 10)
+        numb = numb // 10
+        return recur_method(numb, flip)
+
+
+try:
+    Numb = int(input('Введите число:'))
+    print(f'Перевернуттое число: {recur_method(Numb)}')
+except ValueError:
+    print('Вы ввели строку вместо числа! Исправьте')
