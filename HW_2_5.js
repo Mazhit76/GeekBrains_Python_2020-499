@@ -1,7 +1,7 @@
 /*Реализовать основные 4 арифметические операции в виде
 функций с двумя параметрами.
 Обязательно использовать оператор return. */
-
+"use strict";
 function summary(x, y) {
     return x + y;
 }
@@ -20,3 +20,4 @@ alert('Сумма: ' + summary(x, y));
 alert('Разница: ' + difference(x, y));
 alert('Произведение: ' + composition(x, y));
 alert('Деление: ' + divison(x, y));
+/* */
